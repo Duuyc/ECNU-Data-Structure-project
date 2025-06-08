@@ -1,0 +1,13 @@
+SHORTEST_PATH 审计处 生物实验楼
+ADJ_EDGES 立体停车库
+FIND_TYPE 4
+INSERT_EDGE 审计处 立体停车库 5
+DELETE_EDGE 立体停车库 学术交流中心
+MODIFY_EDGE_WEIGHT 本科生公寓3号楼 本科生公寓1号楼 13
+SHORTEST_PATH 审计处 生物实验楼
+EULERIAN_PATH
+MST_INFO
+INSERT_NODE 立体停车库_extra 4 30
+DELETE_NODE 河口海岸大楼
+ADJ_EDGES 立体停车库
+FIND_TYPE 4

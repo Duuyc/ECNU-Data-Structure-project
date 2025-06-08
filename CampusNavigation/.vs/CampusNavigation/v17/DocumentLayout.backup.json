@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11169DFB-FF2E-42EB-9450-A65EFD22B297}|CampusNavigation.vcxproj|C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11169DFB-FF2E-42EB-9450-A65EFD22B297}|CampusNavigation.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11169DFB-FF2E-42EB-9450-A65EFD22B297}|CampusNavigation.vcxproj|C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\nodes.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{11169DFB-FF2E-42EB-9450-A65EFD22B297}|CampusNavigation.vcxproj|solutionrelative:nodes.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11169DFB-FF2E-42EB-9450-A65EFD22B297}|CampusNavigation.vcxproj|C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\Algorithm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11169DFB-FF2E-42EB-9450-A65EFD22B297}|CampusNavigation.vcxproj|solutionrelative:Algorithm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11169DFB-FF2E-42EB-9450-A65EFD22B297}|CampusNavigation.vcxproj|C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\Algorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11169DFB-FF2E-42EB-9450-A65EFD22B297}|CampusNavigation.vcxproj|solutionrelative:Algorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11169DFB-FF2E-42EB-9450-A65EFD22B297}|CampusNavigation.vcxproj|C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\LGraph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11169DFB-FF2E-42EB-9450-A65EFD22B297}|CampusNavigation.vcxproj|solutionrelative:LGraph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11169DFB-FF2E-42EB-9450-A65EFD22B297}|CampusNavigation.vcxproj|C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\LocationInfo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11169DFB-FF2E-42EB-9450-A65EFD22B297}|CampusNavigation.vcxproj|solutionrelative:LocationInfo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11169DFB-FF2E-42EB-9450-A65EFD22B297}|CampusNavigation.vcxproj|C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\LGraph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11169DFB-FF2E-42EB-9450-A65EFD22B297}|CampusNavigation.vcxproj|solutionrelative:LGraph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11169DFB-FF2E-42EB-9450-A65EFD22B297}|CampusNavigation.vcxproj|C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\edges.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{11169DFB-FF2E-42EB-9450-A65EFD22B297}|CampusNavigation.vcxproj|solutionrelative:edges.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11169DFB-FF2E-42EB-9450-A65EFD22B297}|CampusNavigation.vcxproj|C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\GraphException.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11169DFB-FF2E-42EB-9450-A65EFD22B297}|CampusNavigation.vcxproj|solutionrelative:GraphException.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 257,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nodes.csv",
+              "DocumentMoniker": "C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\nodes.csv",
+              "RelativeDocumentMoniker": "nodes.csv",
+              "ToolTip": "C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\nodes.csv",
+              "RelativeToolTip": "nodes.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-05-23T15:39:04.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "edges.csv",
+              "DocumentMoniker": "C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\edges.csv",
+              "RelativeDocumentMoniker": "edges.csv",
+              "ToolTip": "C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\edges.csv",
+              "RelativeToolTip": "edges.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-05-23T15:39:02.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LGraph.cpp",
+              "DocumentMoniker": "C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\LGraph.cpp",
+              "RelativeDocumentMoniker": "LGraph.cpp",
+              "ToolTip": "C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\LGraph.cpp",
+              "RelativeToolTip": "LGraph.cpp",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T14:08:54.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T13:20:32.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Algorithm.cpp",
+              "DocumentMoniker": "C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\Algorithm.cpp",
+              "RelativeDocumentMoniker": "Algorithm.cpp",
+              "ToolTip": "C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\Algorithm.cpp",
+              "RelativeToolTip": "Algorithm.cpp",
+              "ViewState": "AgIAADoAAAAAAAAAAAAewGEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-24T07:52:08.409Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 191,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LGraph.h",
+              "DocumentMoniker": "C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\LGraph.h",
+              "RelativeDocumentMoniker": "LGraph.h",
+              "ToolTip": "C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\LGraph.h",
+              "RelativeToolTip": "LGraph.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-23T13:24:51.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Algorithm.h",
+              "DocumentMoniker": "C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\Algorithm.h",
+              "RelativeDocumentMoniker": "Algorithm.h",
+              "ToolTip": "C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\Algorithm.h",
+              "RelativeToolTip": "Algorithm.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-24T02:42:08.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GraphException.h",
+              "DocumentMoniker": "C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\GraphException.h",
+              "RelativeDocumentMoniker": "GraphException.h",
+              "ToolTip": "C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\GraphException.h",
+              "RelativeToolTip": "GraphException.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-24T02:54:09.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocationInfo.h",
+              "DocumentMoniker": "C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\LocationInfo.h",
+              "RelativeDocumentMoniker": "LocationInfo.h",
+              "ToolTip": "C:\\Users\\29488\\Desktop\\homework\\Data Structure\\school navigation\\\u6821\u56ED\u5BFC\u822A\u2014\u2014\u7A7A\u51FD\u6570\\CampusNavigation-Windows\\CampusNavigation\\LocationInfo.h",
+              "RelativeToolTip": "LocationInfo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-23T13:15:53.68Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

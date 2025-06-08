@@ -1,0 +1,13 @@
+SHORTEST_PATH 本科生公寓3号楼 实验A楼
+ADJ_EDGES 第四教学楼
+FIND_TYPE 5
+INSERT_EDGE 本科生公寓3号楼 第四教学楼 5
+DELETE_EDGE 丽娃食堂 第四教学楼
+MODIFY_EDGE_WEIGHT 百花园餐厅 银之春西餐厅 16
+SHORTEST_PATH 本科生公寓3号楼 实验A楼
+EULERIAN_PATH
+MST_INFO
+INSERT_NODE 第四教学楼_extra 5 30
+DELETE_NODE 图书馆逸夫楼
+ADJ_EDGES 第四教学楼
+FIND_TYPE 5

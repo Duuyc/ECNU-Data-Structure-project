@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\29488\Desktop\homework\Data Structure\school navigation\校园导航——空函数\CampusNavigation-Windows\CampusNavigation\main.cpp(280,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\29488\Desktop\homework\Data Structure\school navigation\校园导航——空函数\CampusNavigation-Windows\CampusNavigation\main.cpp(100,47): warning C4101: “e”: 未引用的局部变量
+C:\Users\29488\Desktop\homework\Data Structure\school navigation\校园导航——空函数\CampusNavigation-Windows\CampusNavigation\main.cpp(212,47): warning C4101: “e”: 未引用的局部变量
+C:\Users\29488\Desktop\homework\Data Structure\school navigation\校园导航——空函数\CampusNavigation-Windows\CampusNavigation\main.cpp(293,43): warning C4101: “e”: 未引用的局部变量
+  CampusNavigation.vcxproj -> C:\Users\29488\Desktop\homework\Data Structure\school navigation\校园导航——空函数\CampusNavigation-Windows\CampusNavigation\x64\Debug\CampusNavigation.exe
